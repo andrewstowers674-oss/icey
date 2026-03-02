@@ -1,0 +1,611 @@
+======================================================================
+AVAILABLE IN BOTH FILES (529 items)
+======================================================================
+Master Name                         Points
+------------------------------------------
+Basculegion-M                           17
+Ferrothorn                              17
+Tapu Koko                               17
+Thundurus-Incarnate                     17
+Tornadus-Incarnate                      17
+Basculegion-F                           16
+Excadrill                               16
+Grimmsnarl                              16
+Kommo-o                                 16
+Terrakion                               16
+Ursaluna                                16
+Galarian Darmanitan                     15
+Rillaboom                               15
+Rotom-Wash                              15
+Sylveon                                 15
+Tapu Fini                               15
+Azumarill                               14
+Corviknight                             14
+Empoleon                                14
+Hisuian Arcanine                        14
+Hisuian Samurott                        14
+Hydreigon                               14
+Kleavor                                 14
+Mamoswine                               14
+Regieleki                               14
+Conkeldurr                              13
+Gastrodon                               13
+Gothitelle                              13
+Hawlucha                                13
+Mandibuzz                               13
+Milotic                                 13
+Quagsire                                13
+Raikou                                  13
+Reuniclus                               13
+Silvally                                13
+Tangrowth                               13
+Weavile                                 13
+Alolan Ninetales                        12
+Arcanine                                12
+Barraskewda                             12
+Dracozolt                               12
+Galarian Articuno                       12
+Galarian Moltres                        12
+Haxorus                                 12
+Hippowdon                               12
+Hisuian Lilligant                       12
+Shaymin                                 12
+Torterra                                12
+Zapdos                                  12
+Cobalion                                11
+Crawdaunt                               11
+Darmanitan                              11
+Diggersby                               11
+Dugtrio                                 11
+Goodra                                  11
+Hatterene                               11
+Overqwil                                11
+Ribombee                                11
+Roserade                                11
+Salazzle                                11
+Staraptor                               11
+Blissey                                 10
+Cloyster                                10
+Magnezone                               10
+Mesprit                                 10
+Noivern                                 10
+Obstagoon                               10
+Polteageist                             10
+Porygon-Z                               10
+Regidrago                               10
+Torkoal                                 10
+Ambipom                                  9
+Arctozolt                                9
+Articuno                                 9
+Barbaracle                               9
+Bronzong                                 9
+Crustle                                  9
+Duraludon                                9
+Galarian Weezing                         9
+Gallade                                  9
+Hisuian Braviary                         9
+Lucario                                  9
+Ninetales                                9
+Pyukumuku                                9
+Registeel                                9
+Sigilyph                                 9
+Slurpuff                                 9
+Toxtricity                               9
+Uxie                                     9
+Araquanid                                8
+Cofagrigus                               8
+Galvantula                               8
+Heracross                                8
+Hisuian Decidueye                        8
+Hitmonlee                                8
+Jellicent                                8
+Murkrow                                  8
+Regice                                   8
+Scrafty                                  8
+Trevenant                                8
+Virizion                                 8
+Arctovish                                7
+Basculin                                 7
+Doublade                                 7
+Drapion                                  7
+Drednaw                                  7
+Eiscue                                   7
+Frosmoth                                 7
+Golisopod                                7
+Golurk                                   7
+Heliolisk                                7
+Hisuian Electrode                        7
+Lapras                                   7
+Linoone                                  7
+Machamp                                  7
+Mudsdale                                 7
+Ninjask                                  7
+Rhyperior                                7
+Rotom-Frost                              7
+Sandaconda                               7
+Scyther                                  7
+Seismitoad                               7
+Swoobat                                  7
+Type: Null                               7
+Bewear                                   6
+Coalossal                                6
+Crobat                                   6
+Dhelmise                                 6
+Escavalier                               6
+Ferroseed                                6
+Floatzel                                 6
+Golbat                                   6
+Gurdurr                                  6
+Honchkrow                                6
+Inteleon                                 6
+Lanturn                                  6
+Magmortar                                6
+Magneton                                 6
+Mantine                                  6
+Medicham                                 6
+Mismagius                                6
+Pangoro                                  6
+Piloswine                                6
+Qwilfish                                 6
+Rotom-Fan                                6
+Runerigus                                6
+Sirfetch'd                               6
+Spiritomb                                6
+Ursaring                                 6
+Vanilluxe                                6
+Vikavolt                                 6
+Weezing                                  6
+Yanmega                                  6
+Alcremie                                 5
+Alolan Persian                           5
+Alolan Raichu                            5
+Appletun                                 5
+Aromatisse                               5
+Braviary                                 5
+Centiskorch                              5
+Drampa                                   5
+Drifblim                                 5
+Dubwool                                  5
+Dusknoir                                 5
+Electivire                               5
+Flapple                                  5
+Galarian Rapidash                        5
+Glaceon                                  5
+Gourgeist                                5
+Hisuian Qwilfish                         5
+Hisuian Sliggoo                          5
+Hitmonchan                               5
+Klinklang                                5
+Liepard                                  5
+Ludicolo                                 5
+Meowstic                                 5
+Orbeetle                                 5
+Passimian                                5
+Perrserker                               5
+Rampardos                                5
+Rhydon                                   5
+Rotom                                    5
+Shuckle                                  5
+Steelix                                  5
+Stunfisk                                 5
+Toxicroak                                5
+Vileplume                                5
+Wyrdeer                                  5
+Xatu                                     5
+Accelgor                                 4
+Alolan Vulpix                            4
+Avalugg                                  4
+Claydol                                  4
+Clefairy                                 4
+Cottonee                                 4
+Durant                                   4
+Eldegoss                                 4
+Falinks                                  4
+Flareon                                  4
+Galarian Stunfisk                        4
+Garbodor                                 4
+Golduck                                  4
+Hisuian Sneasel                          4
+Indeedee                                 4
+Leafeon                                  4
+Lickilicky                               4
+Luxray                                   4
+Magnemite                                4
+Mawile                                   4
+Morgrem                                  4
+Morpeko                                  4
+Mr. Rime                                 4
+Musharna                                 4
+Pincurchin                               4
+Prinplup                                 4
+Probopass                                4
+Raichu                                   4
+Rapidash                                 4
+Regigigas                                4
+Roselia                                  4
+Sawk                                     4
+Shiftry                                  4
+Skuntank                                 4
+Sneasel                                  4
+Tangela                                  4
+Thwackey                                 4
+Togetic                                  4
+Tropius                                  4
+Turtonator                               4
+Vulpix                                   4
+Walrein                                  4
+Wobbuffet                                4
+Abomasnow                                3
+Alolan Dugtrio                           3
+Altaria                                  3
+Beheeyem                                 3
+Bibarel                                  3
+Boltund                                  3
+Carkol                                   3
+Charjabug                                3
+Diglett                                  3
+Electabuzz                               3
+Haunter                                  3
+Houndoom                                 3
+Kingler                                  3
+Magmar                                   3
+Manectric                                3
+Monferno                                 3
+Mr. Mime                                 3
+Pachirisu                                3
+Palpitoad                                3
+Pikachu                                  3
+Purugly                                  3
+Shiinotic                                3
+Starly                                   3
+Thievul                                  3
+Throh                                    3
+Togedemaru                               3
+Wailord                                  3
+Absol                                    2
+Bastiodon                                2
+Beautifly                                2
+Bellossom                                2
+Boldore                                  2
+Charmeleon                               2
+Chimecho                                 2
+Corsola                                  2
+Corvisquire                              2
+Cramorant                                2
+Cursola                                  2
+Cutiefly                                 2
+Dottler                                  2
+Drakloak                                 2
+Duosion                                  2
+Dustox                                   2
+Fraxure                                  2
+Gabite                                   2
+Galarian Linoone                         2
+Galarian Mr. Mime                        2
+Girafarig                                2
+Glalie                                   2
+Gloom                                    2
+Golem                                    2
+Gothorita                                2
+Grapploct                                2
+Greedent                                 2
+Grotle                                   2
+Hakamo-o                                 2
+Hattrem                                  2
+Heatmor                                  2
+Hippopotas                               2
+Impidimp                                 2
+Kadabra                                  2
+Kricketune                               2
+Lampent                                  2
+Lickitung                                2
+Lombre                                   2
+Lopunny                                  2
+Lunatone                                 2
+Machoke                                  2
+Maractus                                 2
+Mareanie                                 2
+Misdreavus                               2
+Mothim                                   2
+Munchlax                                 2
+Noctowl                                  2
+Nuzleaf                                  2
+Octillery                                2
+Onix                                     2
+Oranguru                                 2
+Parasect                                 2
+Persian                                  2
+Pupitar                                  2
+Purrloin                                 2
+Raboot                                   2
+Riolu                                    2
+Seaking                                  2
+Sliggoo                                  2
+Snover                                   2
+Solrock                                  2
+Stantler                                 2
+Staravia                                 2
+Stonjourner                              2
+Sudowoodo                                2
+Trapinch                                 2
+Unfezant                                 2
+Unown                                    2
+Vanillish                                2
+Vespiquen                                2
+Vullaby                                  2
+Wishiwashi                               2
+Wynaut                                   2
+Zweilous                                 2
+Abra                                     1
+Aipom                                    1
+Alolan Diglett                           1
+Alolan Meowth                            1
+Applin                                   1
+Arrokuda                                 1
+Axew                                     1
+Azurill                                  1
+Baltoy                                   1
+Barboach                                 1
+Bergmite                                 1
+Bidoof                                   1
+Binacle                                  1
+Blipbug                                  1
+Bonsly                                   1
+Bounsweet                                1
+Bronzor                                  1
+Budew                                    1
+Buizel                                   1
+Buneary                                  1
+Bunnelby                                 1
+Burmy                                    1
+Carnivine                                1
+Cascoon                                  1
+Caterpie                                 1
+Charmander                               1
+Chatot                                   1
+Cherrim                                  1
+Cherubi                                  1
+Chewtle                                  1
+Chimchar                                 1
+Chinchou                                 1
+Chingling                                1
+Cleffa                                   1
+Clobbopus                                1
+Combee                                   1
+Corphish                                 1
+Cranidos                                 1
+Croagunk                                 1
+Cubchoo                                  1
+Cufant                                   1
+Cyndaquil                                1
+Dartrix                                  1
+Darumaka                                 1
+Deino                                    1
+Dewott                                   1
+Dewpider                                 1
+Dreepy                                   1
+Drifloon                                 1
+Drilbur                                  1
+Drizzile                                 1
+Duskull                                  1
+Dwebble                                  1
+Eevee                                    1
+Electrike                                1
+Elekid                                   1
+Elgyem                                   1
+Espurr                                   1
+Feebas                                   1
+Finneon                                  1
+Frillish                                 1
+Galarian Darumaka                        1
+Galarian Farfetch'd                      1
+Galarian Meowth                          1
+Galarian Ponyta                          1
+Galarian Yamask                          1
+Galarian Zigzagoon                       1
+Gastly                                   1
+Geodude                                  1
+Gible                                    1
+Glameow                                  1
+Goldeen                                  1
+Golett                                   1
+Goomy                                    1
+Gossifleur                               1
+Gothita                                  1
+Graveler                                 1
+Grookey                                  1
+Growlithe                                1
+Grubbin                                  1
+Happiny                                  1
+Hatenna                                  1
+Helioptile                               1
+Hisuian Growlithe                        1
+Hisuian Voltorb                          1
+Hisuian Zorua                            1
+Honedge                                  1
+Hoothoot                                 1
+Houndour                                 1
+Inkay                                    1
+Jangmo-o                                 1
+Joltik                                   1
+Karrablast                               1
+Kirlia                                   1
+Klang                                    1
+Klink                                    1
+Koffing                                  1
+Krabby                                   1
+Kricketot                                1
+Larvitar                                 1
+Litwick                                  1
+Lotad                                    1
+Lumineon                                 1
+Luxio                                    1
+Machop                                   1
+Magby                                    1
+Magikarp                                 1
+Mantyke                                  1
+Marill                                   1
+Meditite                                 1
+Meowth                                   1
+Metapod                                  1
+Milcery                                  1
+Minccino                                 1
+Morelull                                 1
+Mudbray                                  1
+Munna                                    1
+Natu                                     1
+Nickit                                   1
+Nincada                                  1
+Noibat                                   1
+Nosepass                                 1
+Oddish                                   1
+Oshawott                                 1
+Pancham                                  1
+Paras                                    1
+Petilil                                  1
+Phantump                                 1
+Pichu                                    1
+Pidove                                   1
+Piplup                                   1
+Ponyta                                   1
+Porygon                                  1
+Psyduck                                  1
+Pumpkaboo                                1
+Quilava                                  1
+Ralts                                    1
+Remoraid                                 1
+Rhyhorn                                  1
+Roggenrola                               1
+Rolycoly                                 1
+Rookidee                                 1
+Rowlet                                   1
+Rufflet                                  1
+Salandit                                 1
+Scorbunny                                1
+Scraggy                                  1
+Sealeo                                   1
+Seedot                                   1
+Shellder                                 1
+Shellos                                  1
+Shelmet                                  1
+Shieldon                                 1
+Shinx                                    1
+Silcoon                                  1
+Silicobra                                1
+Sinistea                                 1
+Sizzlipede                               1
+Skorupi                                  1
+Skwovet                                  1
+Snom                                     1
+Snorunt                                  1
+Sobble                                   1
+Solosis                                  1
+Spheal                                   1
+Spritzee                                 1
+Steenee                                  1
+Stufful                                  1
+Stunky                                   1
+Swablu                                   1
+Swinub                                   1
+Swirlix                                  1
+Teddiursa                                1
+Tentacool                                1
+Timburr                                  1
+Toxel                                    1
+Tranquill                                1
+Trubbish                                 1
+Turtwig                                  1
+Tympole                                  1
+Tyrogue                                  1
+Vanillite                                1
+Vibrava                                  1
+Wailmer                                  1
+Wimpod                                   1
+Wingull                                  1
+Woobat                                   1
+Wooloo                                   1
+Wooper                                   1
+Wormadam                                 1
+Wurmple                                  1
+Yamask                                   1
+Yamper                                   1
+Yanma                                    1
+Zigzagoon                                1
+Zubat                                    1
+
+======================================================================
+IN BOTH FILES BUT UNAVAILABLE (66 items)
+======================================================================
+Master Name                         Points
+------------------------------------------
+Dragapult                               19
+Sneasler                                18
+Toxapex                                 17
+Cinderace                               16
+Garchomp                                16
+Gliscor                                 16
+Aegislash                               15
+Clefable                                15
+Infernape                               15
+Scizor                                  15
+Suicune                                 15
+Togekiss                                15
+Entei                                   14
+Galarian Zapdos                         14
+Rotom-Heat                              14
+Tyranitar                               14
+Alakazam                                13
+Azelf                                   13
+Ditto                                   13
+Dracovish                               13
+Gengar                                  13
+Hisuian Zoroark                         13
+Tapu Lele                               13
+Chandelure                              12
+Chansey                                 12
+Gyarados                                12
+Hisuian Goodra                          12
+Vaporeon                                12
+Pelipper                                11
+Porygon2                                11
+Sableye                                 11
+Bisharp                                 10
+Cinccino                                10
+Gardevoir                               10
+Jolteon                                 10
+Mimikyu                                 10
+Moltres                                 10
+Rotom-Mow                               10
+Snorlax                                 10
+Gligar                                   9
+Hisuian Typhlosion                       9
+Umbreon                                  9
+Dusclops                                 8
+Espeon                                   8
+Flygon                                   8
+Hitmontop                                8
+Regirock                                 8
+Tentacruel                               8
+Tsareena                                 8
+Whimsicott                               8
+Galarian Corsola                         7
+Gigalith                                 7
+Charizard                                6
+Copperajah                               6
+Froslass                                 6
+Shedinja                                 6
+Beartic                                  5
+Hisuian Avalugg                          5
+Malamar                                  5
+Whiscash                                 3
+Butterfree                               2
+Pawniard                                 2
+Delibird                                 1
+Farfetch'd                               1
+Mime Jr.                                 1
+Togepi                                   1
+
+======================================================================
+IN MINE.CSV BUT NO MATCH IN MASTER (1 items)
+======================================================================
+  Tapu Bulu                                (normalized: tapu bulu)
